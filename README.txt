@@ -1,5 +1,6 @@
 This telegram bot using for viewing user offers.
 DataBase : Postgres
+Libreri : AIOGram(latest) , psycopg2, python-dotenv
 Admin functions:
 
     /get_offers, /next => Bot give you a user offer.
